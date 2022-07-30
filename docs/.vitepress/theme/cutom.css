@@ -122,3 +122,7 @@ html.dark ::-webkit-scrollbar-thumb {
 .feature {
 	margin-bottom: 30px;
 }
+
+.debug {
+	display: none;
+}
