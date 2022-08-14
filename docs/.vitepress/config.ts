@@ -36,7 +36,7 @@ export default defineConfig({
         },
         {
           text: "第一章",
-          link: "/novel/theme",
+          link: "/novel/chapter001",
         },
       ],
     },
